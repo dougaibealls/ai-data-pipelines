@@ -1,0 +1,11 @@
+name: sql2snowflake
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pandas
+  - sqlalchemy
+  - pyodbc
+  - pip
+  - pip:
+      - "snowflake-connector-python[pandas]"
