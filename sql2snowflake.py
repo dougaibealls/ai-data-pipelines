@@ -16,7 +16,6 @@ SQL_TABLE = "[OUT].[Q_Wk_Data]"
 ODBC_DRIVER = "ODBC Driver 17 for SQL Server"  # change to match your installed driver
  
 # Snowflake side
-SF_ACCOUNT = "A2829166662071-XYA50199"
 SF_ACCOUNT = "X0000000000000-YYY00000"
 SF_USER = "flast@beallsinc.com"
 SF_ROLE = "BEALLS_AI_ARCHITECTURE"
